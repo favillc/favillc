@@ -1,4 +1,5 @@
 <img style="margin:10px;" src="https://github.com/favillc/favillc/blob/main/header%20github.gif" alt="banner that says favillc - Geovanna Favilla" height="450" width="100%">
+ 
 
 ### Allow me to introduce myself (I hope you've had your coffee already)
 
@@ -50,7 +51,7 @@ Farewell, guys!
 ### My Skill Set
 ---
 
-<table align="center"><tr><td valign="top" width="100%">
+<table align="center" style="border:0;"><tr><td valign="top" width="100%">
 
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="25" />  
@@ -70,7 +71,11 @@ Farewell, guys!
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="25" />  
 </div>
+</table>
 
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=favillc&&style=flat-square" align="center" />
+</div> 
 
 <!--
 **favillc/favillc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
