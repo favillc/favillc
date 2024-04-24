@@ -5,7 +5,7 @@
 
 ---
 
-I’m an undergraduate student in computer science at São Paulo State University. As a curious dork, it's difficult to just focus on a single development stack - but I have worked with backend (.Net) and frontend (Angular).
+I’m a bachelor in computer science at São Paulo State University. As a curious dork, it's difficult to just focus on a single development stack - but I have worked with backend (.Net) and frontend (Angular). At this point, I'm working as a test engineer in the telecom industry.
 
 I want to focus on my learning with some projects during my free time, hope you like them.
 
